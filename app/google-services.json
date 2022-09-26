@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489846775801",
+    "project_id": "covid-19-detector-35a57",
+    "storage_bucket": "covid-19-detector-35a57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489846775801:android:dacdf695c02bfd2057a728",
+        "android_client_info": {
+          "package_name": "com.misc.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489846775801-oinvu38kdr65mom39monlcq89jgblkuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeM9BhhA9bsRAH3G7cP3VNPvy-0QuzA7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489846775801-oinvu38kdr65mom39monlcq89jgblkuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
